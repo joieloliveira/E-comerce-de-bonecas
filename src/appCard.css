@@ -1,0 +1,21 @@
+.App .Cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.App {
+    margin-top: 50px;
+}
+
+img {
+    border: 3px solid #af8a9c;
+    overflow: hidden;
+    display: flex;
+    width: 100%;
+}
+
+.jumbotron {
+    background: none
+}
+

@@ -1,0 +1,11 @@
+Button {
+    overflow: hidden;
+    margin: 1px;
+}
+
+.Logo {
+    margin-right: 120px;
+    max-width: 34px;
+    min-width: 34px;
+}
+
